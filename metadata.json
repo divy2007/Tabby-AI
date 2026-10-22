@@ -1,0 +1,7 @@
+{
+  "name": "Tabby AI - Split-Screen Bill Splitter",
+  "description": "Split bills from real receipt photos with AI OCR and conversational natural language cost assignments with proportional tax and tip.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
